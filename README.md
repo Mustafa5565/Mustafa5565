@@ -9,8 +9,8 @@ I'm a dedicated web developer passionate about crafting engaging and responsive 
 I'm actively working on enhancing my skills in front-end development by e.commerce website. Whether it's creating visually appealing layouts or implementing dynamic client-side functionality, I'm always eager to explore and learn.
 
 ## 🌐 Connect with Me
-- [Instagram](_mustafa._65)
-  [EMAIL :](gm849311@gmail.com)
+
+  [Instagram](https://instagram.com/_mustafa._65)
 
 Let's discuss web development, share insights, and collaborate on exciting projects. Feel free to explore my repositories, and don't hesitate to reach out for a chat or collaboration.
 
